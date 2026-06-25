@@ -1,8 +1,10 @@
+**Rivals Configs**
+
 This Marvel Rivals config file improves performance by optimizing graphics settings while maintaining an acceptable level of graphics quality.
 
 Installation Instructions
 
-First of all, to install .pak files in Marvel Rivals, you need to download UTOC Signature Bypass Patch for Marvel Rivals (Enable Mod Loading).
+First of all, to install .pak files in Marvel Rivals, you need to download [UTOC Signature Bypass](https://www.nexusmods.com/marvelrivals/mods/2940) Patch for Marvel Rivals (Enable Mod Loading).
 
 Manually download only one of the files and paste it into the following folder:
 
