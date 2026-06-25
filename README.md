@@ -24,9 +24,11 @@ Uninstallation instructions
 Delete the installed .pak file.
 
 
-EXAMPLE QUALITY PRESET:
+EXAMPLE PERFORMANCE FILE:
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/775af2a7-c071-41b3-a13e-ff337ec4a1e8" />
 
+EXAMPLE BALANCED FILE:
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7d7f4b1e-bc1e-438a-a6f8-b3482d11f1f9" />
 
+EXAMPLE QUALITY FILE:
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9d95729d-044e-4c36-a328-92d6803a98ea" />
