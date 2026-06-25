@@ -38,3 +38,6 @@ LOW SETTINGS - TAAU
 
 LOW SETTINGS - TAAU
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9d95729d-044e-4c36-a328-92d6803a98ea" />
+
+## 
+[Download .pak files](https://github.com/MauriSMZ/Rivals-configs/releases/tag/0.0.1)
