@@ -18,4 +18,5 @@ C:\Program Files\Epic Games\MarvelRivalsjKtnW\MarvelGame\Marvel\Content\Paks\~Mo
 If you don't have the ~Mods folder, create it manually. Make sure the name is exactly ~Mods, including the ~ symbol.
 
 Uninstallation instructions
+
 Delete the installed .pak file.
